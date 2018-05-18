@@ -1,0 +1,2 @@
+# VariadicSingleton
+Variadic singleton
